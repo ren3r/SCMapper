@@ -1,2 +1,2 @@
-# SCtrlMapper
+# SCntrlMapper
 Not description provided yet
