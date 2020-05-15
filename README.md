@@ -1,2 +1,2 @@
-# SCntlrMapper
+# SCMapper
 Not description provided yet
